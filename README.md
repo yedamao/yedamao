@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🔭 I’m currently working on IM
+* 😄 Vimer
+* ⛹ 🏀
+
+
+![yedamao's github stats](https://github-readme-stats.vercel.app/api?username=yedamao&show_icons=true&theme=radical)

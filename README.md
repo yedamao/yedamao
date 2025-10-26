@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🏀 🥊 ⛹ 
+* 🏀 🥊 🚴 🏃
 * 😄 Vimer
-* 🔭 I’m currently working on IM
+* 🔭 I’m currently vibe coding
 
 
 ![yedamao's github stats](https://github-readme-stats.vercel.app/api?username=yedamao&show_icons=true&theme=radical)
